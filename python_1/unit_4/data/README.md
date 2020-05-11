@@ -1,0 +1,1 @@
+La font original d'aquestes dades és [FiveThirtyEight](https://fivethirtyeight.com/), un web que realitza articles basats en dades sobre esports i notícies, i que posa a disposició pública els [conjunts de dades](https://github.com/fivethirtyeight/data) que recull per als seus articles.
