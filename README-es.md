@@ -3,7 +3,7 @@
 Para acceder a la versión en catalán de este documento, haced clic [aquí](README.md).
 # 1. Introducción
 
-Este repositorio contiene un conjunto de *notebooks* de jupyter que forman parte de los cursos de programación Python para la ciencia de datos de la Universitat Oberta de Catalunya, y que se distribuyen bajo licencia [`CC-BY-SA`](https://creativecommons.org/licenses/by-sa/2.0/).
+Este repositorio contiene un conjunto de *notebooks* de jupyter que forman parte de los cursos de programación Python para la ciencia de datos de la Universitat Oberta de Catalunya, y que se distribuyen bajo licencia [`CC-BY-SA`](https://creativecommons.org/licenses/by-sa/4.0/).
 
 El repositorio contiene los notebooks separados en dos carpetas:
 1. La carpeta `python_1` contiene los *notebooks* de la asignatura **Fundamentos de programación**, que ofrece una introducción a la programación en lenguaje Python centrada en la resolución de problemas del ámbito de la ciencia de datos.
